@@ -1,0 +1,21 @@
+.footer {
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer ul {
+  display: flex;
+  gap: 5em;
+}
+.footer ul li {
+  border: 2px solid transparent;
+}
+.footer ul li a {
+  color: #000;
+}
+.footer ul li a:hover {
+  border-bottom: 2px solid #ccc;
+  color: #ccc;
+  cursor: pointer;
+}

@@ -1,0 +1,19 @@
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  background-color: #1374e7;
+  width: 350px;
+  padding: 10px;
+  border-radius: 10em;
+}
+.btn:hover {
+  border: 1px solid #000;
+}
+.iconContainer {
+  display: flex;
+  justify-content: center;
+  margin-right: 5px;
+  color: #000;
+}
