@@ -37,3 +37,24 @@
   color: #000;
   border-bottom: 1px solid #000;
 }
+
+@media (max-width: 480px) {
+  .card {
+    height: 350px;
+    width: 250px;
+  }
+  .card section {
+    gap: 0;
+  }
+  .descricao {
+    font-size: 12px;
+
+    font-weight: bold;
+  }
+  .subDescricao {
+    font-size: 11px;
+  }
+  .card section span a {
+    font-size: 12px;
+  }
+}

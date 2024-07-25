@@ -16,3 +16,24 @@
   max-width: 80%;
   margin: 0 auto;
 }
+
+@media (max-width: 480px) {
+  .about {
+    line-height: 1em;
+  }
+  .about h2 {
+    text-align: center;
+    padding: 20px 0 0 0;
+  }
+  .about p {
+    text-align: center;
+    font-size: 12px;
+  }
+}
+@media (max-width: 393px) {
+  .about p {
+    text-align: center;
+    font-size: 9px;
+    font-weight: bold;
+  }
+}

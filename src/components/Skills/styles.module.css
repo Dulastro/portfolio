@@ -20,3 +20,18 @@
 .iconContainer img {
   height: 150px;
 }
+
+@media (max-width: 480px) {
+  .skills {
+    height: 320px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .iconContainer {
+    gap: 5em;
+  }
+  .iconContainer img {
+    height: 50px;
+  }
+}

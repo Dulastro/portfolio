@@ -26,6 +26,9 @@ header section a {
   border-bottom: 1px solid #000;
 }
 .avatarContainer {
+  -webkit-box-shadow: 2px 4px 38px 0px rgba(0, 95, 238, 1);
+  -moz-box-shadow: 2px 4px 38px 0px rgba(0, 95, 238, 1);
+  box-shadow: 2px 4px 38px 0px rgba(0, 95, 238, 1);
   border-radius: 50%;
   overflow: hidden;
   height: 80%;
@@ -36,4 +39,35 @@ header section a {
   object-fit: cover;
   height: 100%;
   width: 100%;
+}
+@media (max-width: 480px) {
+  .header {
+    padding: 2em 0;
+    flex-direction: column;
+    align-items: center;
+  }
+  .header section {
+    padding: 0;
+  }
+  .header section h1 {
+    font-size: 30px;
+  }
+  p {
+    font-size: 12px;
+  }
+  header section a {
+    font-size: 12px;
+  }
+  .avatarContainer {
+    height: 80%;
+    display: flex;
+    margin: 0 auto;
+  }
+}
+@media (max-width: 393px) {
+  .avatarContainer {
+    height: 70%;
+    display: flex;
+    margin: 0 auto;
+  }
 }

@@ -17,3 +17,14 @@
   grid-template-columns: repeat(3, 1fr);
   gap: 10em;
 }
+
+@media (max-width: 480px) {
+  .projects {
+    height: 2300px;
+  }
+  .cardContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+}

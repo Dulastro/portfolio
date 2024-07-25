@@ -19,3 +19,17 @@
   color: #ccc;
   cursor: pointer;
 }
+@media (max-width: 480px) {
+  .footer ul li a {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 393px) {
+  .footer ul {
+    gap: 2em;
+  }
+  .footer ul li a {
+    font-size: 13px;
+  }
+}

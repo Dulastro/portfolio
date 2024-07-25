@@ -15,3 +15,13 @@
   align-items: center;
   gap: 10em;
 }
+@media (max-width: 480px) {
+  .contact h2 {
+    padding: 0.4em 0;
+  }
+  .contact div {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+  }
+}
