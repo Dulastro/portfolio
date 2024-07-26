@@ -1,7 +1,7 @@
 import Card from "./Card";
 import styles from "./styles.module.css";
-import imgProjeto from "../../assets/image.png";
-export default function Projects({ title,id }) {
+import imgProjeto from "../../assets/projeto.jpeg";
+export default function Projects({ title, id }) {
   return (
     <section className={styles.projects} id={id}>
       <h2>{title}</h2>
@@ -9,7 +9,7 @@ export default function Projects({ title,id }) {
         <Card
           imgProjeto={imgProjeto}
           descricao={
-            "O TaskMaster é um aplicativo para ajudar os usuários a organizar suas tarefas diárias. Com ele, é possível criar, editar e acompanhar atividades de forma prática e eficiente."
+            "A Dolor Sit Et Ipsum Velit Adipiscing Proin Bibendum Ut Cursus. Duis Viverra Et Quis Euismod At Tellus Ac Vestibulum. Nam Orci Efficitur Nibh Sed Etiam Elit."
           }
           subDescricao={"tech stack: HTML, JavaScript, Sass, React"}
           linkLivePreview={"#"}
@@ -20,7 +20,7 @@ export default function Projects({ title,id }) {
         <Card
           imgProjeto={imgProjeto}
           descricao={
-            "O TaskMaster é um aplicativo para ajudar os usuários a organizar suas tarefas diárias. Com ele, é possível criar, editar e acompanhar atividades de forma prática e eficiente."
+            "A Dolor Sit Et Ipsum Velit Adipiscing Proin Bibendum Ut Cursus. Duis Viverra Et Quis Euismod At Tellus Ac Vestibulum. Nam Orci Efficitur Nibh Sed Etiam Elit."
           }
           subDescricao={"tech stack: HTML, JavaScript, Sass, React"}
           linkLivePreview={"#"}
@@ -31,7 +31,7 @@ export default function Projects({ title,id }) {
         <Card
           imgProjeto={imgProjeto}
           descricao={
-            "O TaskMaster é um aplicativo para ajudar os usuários a organizar suas tarefas diárias. Com ele, é possível criar, editar e acompanhar atividades de forma prática e eficiente."
+            "A Dolor Sit Et Ipsum Velit Adipiscing Proin Bibendum Ut Cursus. Duis Viverra Et Quis Euismod At Tellus Ac Vestibulum. Nam Orci Efficitur Nibh Sed Etiam Elit."
           }
           subDescricao={"tech stack: HTML, JavaScript, Sass, React"}
           linkLivePreview={"#"}
@@ -42,7 +42,7 @@ export default function Projects({ title,id }) {
         <Card
           imgProjeto={imgProjeto}
           descricao={
-            "O TaskMaster é um aplicativo para ajudar os usuários a organizar suas tarefas diárias. Com ele, é possível criar, editar e acompanhar atividades de forma prática e eficiente."
+            "A Dolor Sit Et Ipsum Velit Adipiscing Proin Bibendum Ut Cursus. Duis Viverra Et Quis Euismod At Tellus Ac Vestibulum. Nam Orci Efficitur Nibh Sed Etiam Elit."
           }
           subDescricao={"tech stack: HTML, JavaScript, Sass, React"}
           linkLivePreview={"#"}
@@ -53,7 +53,7 @@ export default function Projects({ title,id }) {
         <Card
           imgProjeto={imgProjeto}
           descricao={
-            "O TaskMaster é um aplicativo para ajudar os usuários a organizar suas tarefas diárias. Com ele, é possível criar, editar e acompanhar atividades de forma prática e eficiente."
+            "A Dolor Sit Et Ipsum Velit Adipiscing Proin Bibendum Ut Cursus. Duis Viverra Et Quis Euismod At Tellus Ac Vestibulum. Nam Orci Efficitur Nibh Sed Etiam Elit."
           }
           subDescricao={"tech stack: HTML, JavaScript, Sass, React"}
           linkLivePreview={"#"}
@@ -64,7 +64,7 @@ export default function Projects({ title,id }) {
         <Card
           imgProjeto={imgProjeto}
           descricao={
-            "O TaskMaster é um aplicativo para ajudar os usuários a organizar suas tarefas diárias. Com ele, é possível criar, editar e acompanhar atividades de forma prática e eficiente."
+            "A Dolor Sit Et Ipsum Velit Adipiscing Proin Bibendum Ut Cursus. Duis Viverra Et Quis Euismod At Tellus Ac Vestibulum. Nam Orci Efficitur Nibh Sed Etiam Elit."
           }
           subDescricao={"tech stack: HTML, JavaScript, Sass, React"}
           linkLivePreview={"#"}

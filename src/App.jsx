@@ -1,3 +1,5 @@
+import avatar from "./assets/avatar.jpeg";
+
 import About from "./components/About";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
@@ -26,9 +28,7 @@ function App() {
         profissao={"Front-end web development"}
         altAvatar={"Avatar"}
         id={"home"}
-        srcAvatar={
-          "https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775234_960_720.png"
-        }
+        srcAvatar={avatar}
       />
       <About
         about={"About"}
