@@ -12,9 +12,9 @@ export default function Projects({ title, id }) {
             "A Dolor Sit Et Ipsum Velit Adipiscing Proin Bibendum Ut Cursus. Duis Viverra Et Quis Euismod At Tellus Ac Vestibulum. Nam Orci Efficitur Nibh Sed Etiam Elit."
           }
           subDescricao={"tech stack: HTML, JavaScript, Sass, React"}
-          linkLivePreview={"#"}
+          linkLivePreview={"https://dulastro.github.io/portfolio/"}
           livePreview={"Live Preview"}
-          linkViewCode={"#"}
+          linkViewCode={"https://github.com/Dulastro/portfolio"}
           viewCode={"View Code"}
         />
         <Card
@@ -23,9 +23,9 @@ export default function Projects({ title, id }) {
             "A Dolor Sit Et Ipsum Velit Adipiscing Proin Bibendum Ut Cursus. Duis Viverra Et Quis Euismod At Tellus Ac Vestibulum. Nam Orci Efficitur Nibh Sed Etiam Elit."
           }
           subDescricao={"tech stack: HTML, JavaScript, Sass, React"}
-          linkLivePreview={"#"}
+          linkLivePreview={"https://dulastro.github.io/portfolio/"}
           livePreview={"Live Preview"}
-          linkViewCode={"#"}
+          linkViewCode={"https://github.com/Dulastro/portfolio"}
           viewCode={"View Code"}
         />
         <Card
@@ -34,9 +34,9 @@ export default function Projects({ title, id }) {
             "A Dolor Sit Et Ipsum Velit Adipiscing Proin Bibendum Ut Cursus. Duis Viverra Et Quis Euismod At Tellus Ac Vestibulum. Nam Orci Efficitur Nibh Sed Etiam Elit."
           }
           subDescricao={"tech stack: HTML, JavaScript, Sass, React"}
-          linkLivePreview={"#"}
+          linkLivePreview={"https://dulastro.github.io/portfolio/"}
           livePreview={"Live Preview"}
-          linkViewCode={"#"}
+          linkViewCode={"https://github.com/Dulastro/portfolio"}
           viewCode={"View Code"}
         />
         <Card
@@ -45,9 +45,9 @@ export default function Projects({ title, id }) {
             "A Dolor Sit Et Ipsum Velit Adipiscing Proin Bibendum Ut Cursus. Duis Viverra Et Quis Euismod At Tellus Ac Vestibulum. Nam Orci Efficitur Nibh Sed Etiam Elit."
           }
           subDescricao={"tech stack: HTML, JavaScript, Sass, React"}
-          linkLivePreview={"#"}
+          linkLivePreview={"https://dulastro.github.io/portfolio/"}
           livePreview={"Live Preview"}
-          linkViewCode={"#"}
+          linkViewCode={"https://github.com/Dulastro/portfolio"}
           viewCode={"View Code"}
         />
         <Card
@@ -56,9 +56,9 @@ export default function Projects({ title, id }) {
             "A Dolor Sit Et Ipsum Velit Adipiscing Proin Bibendum Ut Cursus. Duis Viverra Et Quis Euismod At Tellus Ac Vestibulum. Nam Orci Efficitur Nibh Sed Etiam Elit."
           }
           subDescricao={"tech stack: HTML, JavaScript, Sass, React"}
-          linkLivePreview={"#"}
+          linkLivePreview={"https://dulastro.github.io/portfolio/"}
           livePreview={"Live Preview"}
-          linkViewCode={"#"}
+          linkViewCode={"https://github.com/Dulastro/portfolio"}
           viewCode={"View Code"}
         />
         <Card
@@ -67,9 +67,9 @@ export default function Projects({ title, id }) {
             "A Dolor Sit Et Ipsum Velit Adipiscing Proin Bibendum Ut Cursus. Duis Viverra Et Quis Euismod At Tellus Ac Vestibulum. Nam Orci Efficitur Nibh Sed Etiam Elit."
           }
           subDescricao={"tech stack: HTML, JavaScript, Sass, React"}
-          linkLivePreview={"#"}
+          linkLivePreview={"https://dulastro.github.io/portfolio/"}
           livePreview={"Live Preview"}
-          linkViewCode={"#"}
+          linkViewCode={"https://github.com/Dulastro/portfolio"}
           viewCode={"View Code"}
         />
       </div>
