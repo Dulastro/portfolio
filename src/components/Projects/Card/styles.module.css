@@ -47,6 +47,9 @@
   .card section {
     gap: 0;
   }
+  .card img {
+    height: 10em;
+  }
   .descricao {
     font-size: 12px;
 
