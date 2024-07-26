@@ -15,8 +15,12 @@ export default function Card({
         <p className={styles.descricao}>{descricao}</p>
         <p className={styles.subDescricao}>{subDescricao}</p>
         <span>
-          <a href={linkLivePreview}>💻{livePreview}</a>
-          <a href={linkViewCode}>🔗{viewCode}</a>
+          <a href={linkLivePreview} target="_blank">
+            💻{livePreview}
+          </a>
+          <a href={linkViewCode} target="_blank">
+            🔗{viewCode}
+          </a>
         </span>
       </section>
     </div>
